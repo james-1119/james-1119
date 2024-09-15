@@ -4,4 +4,4 @@ You can find some of the code for my projects here including:
 - My Unity Horror game: Lurking Lessons
 - My arduino directional locked box
 
-thanks for checking this out!
+Thanks for checking this out!
