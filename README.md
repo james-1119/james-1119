@@ -1,5 +1,5 @@
 # 👋 Hi, I’m James and this is my github! 
-you can find some of the code for my projects here including:
+You can find some of the code for my projects here including:
 - My Browser Dungeon Crawler
 - My Unity Horror game: Lurking Lessons
 - My arduino directional locked box
